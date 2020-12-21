@@ -17,3 +17,6 @@
 [QDISC](https://people.kernel.org/dsahern/rss-rps-locking-qdisc)
 
 [Eudyptula challenges task list](https://github.com/ita93/eudyptula/blob/master/README)
+
+[Kernel debug with kgdb](https://elinux.org/images/1/1b/ELC19_Serial_kdb_kgdb.pdf)
+
