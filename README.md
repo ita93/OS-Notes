@@ -20,3 +20,4 @@
 
 [Kernel debug with kgdb](https://elinux.org/images/1/1b/ELC19_Serial_kdb_kgdb.pdf)
 
+[Debugging an already-probed kernel module (From STM)](https://wiki.st.com/stm32mpu/wiki/Debugging_the_Linux_kernel_using_the_GDB#Debugging_an_already-probed_kernel_module)
