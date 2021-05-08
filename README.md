@@ -23,3 +23,5 @@
 [Debugging an already-probed kernel module (From STM)](https://wiki.st.com/stm32mpu/wiki/Debugging_the_Linux_kernel_using_the_GDB#Debugging_an_already-probed_kernel_module)
 
 [KGDB guide from Elinux](https://elinux.org/Kgdb)
+
+git send-email -2 --annotate --thread --chain-reply-to --in-reply-to --in-reply-to "<20210508115237.12515-1-phind.uet@gmail.com>" --to bovang11@gmail.com
