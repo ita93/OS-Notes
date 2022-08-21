@@ -25,3 +25,5 @@
 [KGDB guide from Elinux](https://elinux.org/Kgdb)
 
 git send-email -2 --annotate --thread --chain-reply-to --in-reply-to --in-reply-to "<20210508115237.12515-1-phind.uet@gmail.com>" --to bovang11@gmail.com
+
+[Syzkaller setup for qemu/kvm](https://github.com/google/syzkaller/blob/master/docs/linux/setup_ubuntu-host_qemu-vm_x86-64-kernel.md)
